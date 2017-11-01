@@ -1,0 +1,66 @@
+
+.item slides img{
+  height: 100%;
+  width: 100%
+}
+.fade-carousel .carousel-inner .item {
+    height: 100%;
+}
+.fade-carousel .carousel-indicators > li {
+    margin: 0 3 0 0px;
+    background-color: lime;
+  	border-style: none;
+}
+
+.fade-carousel .carousel-indicators > li.active {
+  width: 10px;
+  height: 10px;
+  background-color: yellow;
+ 
+}
+.fade-carousel {
+    position: relative;
+    height: 100%;
+}
+
+h2{
+  text-align: center;
+  position: absolute;
+  color: #808080;
+}
+.fade-carousel .slides .slide-1{
+  height: 130vh;
+  color: #808080;
+  text-align: center;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.fade-carousel .slides .slide-2{
+  height: 130vh;
+  color: #808080;
+  text-align: center;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.fade-carousel .slides .slide-3{
+  height: 130vh;
+  color: #808080;
+  text-align: center;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.fade-carousel .slides .slide-4{
+  height: 130vh;
+  color: #808080;
+  text-align: center;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+
+
+
